@@ -1,0 +1,18 @@
+
+.list{
+    display: flex;
+   
+    border-spacing: 10px;
+    align-self: center;
+    font-family: 'Roboto Slab', serif;
+    color:rgb(12, 241, 131);
+    size: 24px;
+  
+}
+
+.title{
+
+align-self:center;
+color:rgb(153, 140, 140);
+font-family: 'Dancing Script', cursive;
+}
